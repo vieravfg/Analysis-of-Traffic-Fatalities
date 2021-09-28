@@ -1,4 +1,4 @@
-# Traffic fatalities in Georgia during daylight saving hours 
+# Traffic Fatalities in Georgia During Daylight Saving Hours 
 ![first ppt](ScreenShots/1st.png)
 ![second ppt](ScreenShots/2nd.png)
 ![third ppt](ScreenShots/3rd.png)
